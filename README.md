@@ -1,4 +1,6 @@
-# GoToGram
+<div align="center">
+ GoToGram
+</div>  
 * fully vibecoded 
 
 Send media from X (Twitter) to Telegram channels in one click.

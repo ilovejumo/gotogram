@@ -1,5 +1,5 @@
 <div align="center">
-# GoToGram
+<h1> GoToGram </h1>
 </div>  
 * fully vibecoded 
 
